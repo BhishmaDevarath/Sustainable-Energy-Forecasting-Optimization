@@ -1,0 +1,31 @@
+PlantID,PlantName,Region,EnergyType,InstalledCapacityMW,CommissionDate,Status
+1,Plant_001,Coastal,Solar,115.49,2022-02-27,Operational
+2,Plant_002,South,Solar,285.46,2018-07-29,Operational
+3,Plant_003,Central,Solar,220.94,2020-05-14,Operational
+4,Plant_004,North,Solar,181.6,2020-10-31,Operational
+5,Plant_005,Central,Solar,51.03,2021-08-23,Operational
+6,Plant_006,West,Solar,51.02,2021-04-21,Operational
+7,Plant_007,North,Biomass,22.13,2018-11-23,Operational
+8,Plant_008,East,Solar,260.52,2019-03-17,Under Maintenance
+9,Plant_009,East,Solar,182.33,2020-02-18,Operational
+10,Plant_010,East,Hydro,213.88,2022-07-11,Operational
+11,Plant_011,West,Wind,11.07,2020-02-15,Operational
+12,Plant_012,East,Biomass,291.12,2021-06-20,Operational
+13,Plant_013,East,Wind,250.57,2021-12-13,Operational
+14,Plant_014,Coastal,Solar,67.64,2019-08-16,Decommissioned
+15,Plant_015,South,Gas,58.64,2020-02-18,Operational
+16,Plant_016,Coastal,Biomass,59.1,2018-11-30,Operational
+17,Plant_017,South,Hydro,94.75,2021-12-08,Under Maintenance
+18,Plant_018,Coastal,Solar,159.8,2021-07-24,Operational
+19,Plant_019,Coastal,Solar,132.42,2020-08-04,Operational
+20,Plant_020,Coastal,Hydro,90.91,2019-03-26,Operational
+21,Plant_021,North,Solar,185.5,2018-03-07,Operational
+22,Plant_022,West,Solar,46.15,2019-03-09,Under Maintenance
+23,Plant_023,Central,Gas,91.18,2019-10-07,Operational
+24,Plant_024,West,Wind,113.08,2021-08-09,Operational
+25,Plant_025,East,Solar,139.54,2022-03-06,Operational
+26,Plant_026,East,Hydro,236.63,2020-05-27,Operational
+27,Plant_027,West,Wind,63.9,2018-10-11,Operational
+28,Plant_028,North,Biomass,156.7,2022-10-30,Operational
+29,Plant_029,Coastal,Solar,179.76,2021-10-25,Operational
+30,Plant_030,North,Wind,18.7,2021-05-05,Decommissioned
